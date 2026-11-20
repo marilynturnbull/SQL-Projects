@@ -28,8 +28,6 @@ Designed and analysed a relational gaming database to identify revenue trends, p
 - Data Validation
 - Business Intelligence
 
-<img width="462" height="567" alt="Misson 4 Schema" src="https://github.com/user-attachments/assets/b7d9495b-3c00-475e-bdc6-b19974a26812" />
-<img width="1052" height="742" alt="Mission 4 Data Validation" src="https://github.com/user-attachments/assets/2337c246-2882-44be-a801-2ba520f0d03c" />
 <img width="1062" height="772" alt="Mission 4 Revenue Insights" src="https://github.com/user-attachments/assets/9425bbe6-ae37-4b38-8db0-03cda33130da" />
 <img width="841" height="732" alt="Mission 4 Revenue by Genre" src="https://github.com/user-attachments/assets/78d894d2-8840-48db-a8bf-6f613ea897db" />
 <img width="840" height="742" alt="Mission 4 Window Function and Ranking" src="https://github.com/user-attachments/assets/cf2cce42-522c-4630-a70a-49a3a3197dd8" />
