@@ -41,6 +41,11 @@ Used Microsoft Copilot to generate SQL queries and analytical reports, then inde
 - Critical Analysis
 - AI-Assisted Analytics
 - Data Quality Assessment
+  
+<img width="721" height="296" alt="Mission 5 - AI prompt example" src="https://github.com/user-attachments/assets/e8c8136f-bf27-4843-afa4-016f7d3756a5" />
+<img width="692" height="567" alt="Mission 5 - AI generated SQL" src="https://github.com/user-attachments/assets/df0db285-97a5-45bb-a4e9-57405f19b189" />
+<img width="832" height="327" alt="Mission 5 - AI Revenue Ranking Error" src="https://github.com/user-attachments/assets/78474ce5-5d12-40ec-9e5d-2ea439c1bf83" />
+<img width="1200" height="355" alt="Mission 5 - Top 5 by Revenue AI Validation" src="https://github.com/user-attachments/assets/54f2442a-3f64-4135-9d88-013598dc01e1" />
 
 ## Tools Used
 - MySQL
